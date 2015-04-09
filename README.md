@@ -27,3 +27,10 @@ Men har du tänkt på?
 **Biologiska skillnader**
 
 Att förklara bristen på kvinnliga utvecklare med biologi är att befästa att "Det går inte att göra något åt, tjejer bara är såna". Det känns inte så produktivt. Dessutom stigmatiserar det kvinnor som faktiskt har sånt intresse; vi "går mot vår biologi".
+
+
+**Men en-ennan-bransch är inte heller jämställd**
+
+Kanske det, kanske inte. Det spelar ingen roll för detta handlar inte om den branschen utan om programmeringsbranschen.
+
+Vanliga exempel verkar vara make up-artister och byggjobbare.
