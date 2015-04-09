@@ -13,16 +13,17 @@ Eller lite längre, ja på grund av att dessa punkter:
 - Kvinnor i branschen blir på vissa ställen konsekvent sämre behandlade.
 - Duktiga kvinnor, och vissa män, orkar inte med klimatet och slutar.
 - Branschen skriker idag efter duktigt folk.
+- Bolag med jämnställd styrelse presterar konsekvent bättre.
+- Mindre risk för grupptänk med fler perspektiv.
 
 Hur dåligt kan det vara?
 ------------------------
 
-Sverige är inte så jämställt som man kan tro.
+Många kvinnor lämnar ett jobb som är bra betalt, flexibla arbetstider och på pappret verkar schysst. Något är uppenbarligen galet.
 
 Men har du tänkt på?
 --------------------
 
 **Biologiska skillnader**
 
-Bladibla
-
+Att förklara bristen på kvinnliga utvecklare med biologi är att befästa att "Det går inte att göra något åt, tjejer bara är såna". Det känns inte så produktivt. Dessutom stigmatiserar det kvinnor som faktiskt har sånt intresse; vi "går mot vår biologi".
