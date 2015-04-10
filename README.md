@@ -44,7 +44,7 @@ Okej det är ett problem, hur gör vi något åt detta?
 
 **Rekrytering - annonser**
 
--Fundera över var du annonserar, Spotify fick in många fler tjejer i ett hackathon när de annonserade utanför de vanliga kanalerna (https://labs.spotify.com/2015/01/13/diversify-how-we-created-a-hackathon-with-50-50-female-male-participants/)
+- Fundera över var du annonserar, Spotify fick in många fler tjejer i ett hackathon när de annonserade utanför de vanliga kanalerna (https://labs.spotify.com/2015/01/13/diversify-how-we-created-a-hackathon-with-50-50-female-male-participants/)
 - Ta hjälp av rättviseförmedlingen eller liknande organisationer.
 - Ta in kvinnor till hjälp när annonsen utformas, eller helt enkelt bara låt en kvinna designa hela annonsen. Har ni inga kvinnor på bolaget finns det konsulter.
 
@@ -66,7 +66,7 @@ På vissa bolag ses primärt tjejer som "gnälliga" eller "kan inte ta skämt" n
 
 **Löneförhandling eller befodran**
 
-Generellt brukar män begära lönehöjning eller befodran när de matchar 50-60% av den nya rollens krav. Kvinnor begär sällan lönehöjning alls och om de gör det brukar det vara när de matchar 80-100% av kraven. 
+Generellt brukar män begära lönehöjning eller befodran när de matchar 50-60% av den nya rollens krav. Kvinnor begär sällan lönehöjning alls och om de gör det brukar det vara när de matchar 80-100% av kraven.
 
 - Fundera över hur ni allokerar lönehöjningar.
 - Se över hur ni befodrar inom bolaget.
