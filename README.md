@@ -20,7 +20,7 @@ Eller lite längre, ja på grund av att dessa punkter:
 Hur dåligt kan det vara?
 ------------------------
 
-Många kvinnor lämnar ett jobb som är bra betalt, flexibla arbetstider och på pappret verkar schysst. Något är uppenbarligen galet.
+Många kvinnor lämnar ett jobb som är bra betalt, har flexibla arbetstider och på pappret verkar schysst. Något är uppenbarligen galet.
 
 Men har du tänkt på?
 --------------------
