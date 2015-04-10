@@ -3,7 +3,7 @@ Introduktion
 
 Att det är få kvinnliga utvecklare har troligen inte undgått någon vid det här laget. Efter en längre nät-debatt bestämde jag mig för att försöka sammanfatta frågan för att på snabbbast vis få upp nya på banan.
 
-Är det ett problem vi borde läsa?
+Är det ett problem vi borde lösa?
 -------------------
 
 Ja.
@@ -15,6 +15,7 @@ Eller lite längre, ja på grund av att dessa punkter:
 - Branschen skriker idag efter duktigt folk.
 - Bolag med jämnställd styrelse presterar konsekvent bättre.
 - Mindre risk för grupptänk med fler perspektiv.
+- Jämställda team är mer effektiva.
 
 Hur dåligt kan det vara?
 ------------------------
@@ -26,7 +27,7 @@ Men har du tänkt på?
 
 **Biologiska skillnader**
 
-Att förklara bristen på kvinnliga utvecklare med biologi är att befästa att "Det går inte att göra något åt, tjejer bara är såna". Det känns inte så produktivt. Dessutom stigmatiserar det kvinnor som faktiskt har sånt intresse; vi "går mot vår biologi".
+Att förklara bristen på kvinnliga utvecklare med biologi är att befästa att "Det går inte att göra något åt, tjejer bara är såna". Det är inte produktivt. Dessutom stigmatiserar det kvinnor som har ett tekniskt intresse; vi "går mot vår biologi".
 
 **Sociokulturella skillnader**
 
@@ -36,7 +37,7 @@ Sådana går att göra något åt.
 
 Kanske det, kanske inte. Det spelar ingen roll för detta handlar inte om den branschen utan om programmeringsbranschen.
 
-Vanliga exempel verkar vara make up-artister och byggjobbare.
+Vanliga exempel verkar vara make up-artister och byggjobbare. Dessutom är olika yrkesgruppers kön något som omdefinieras historiskt, där yrken som utvecklas till att ses som mer avancerade och tekniska konsekvent blir mer manliga och de som ses som mindre komplexa övertiden också blir mer kvinnliga. Exempel på detta är t.ex. sekreterare som gått från manligt till kvinnligt och programmerare där utvecklingen har blivit det motsatta.
 
 Okej det är ett problem, hur gör vi något åt detta?
 ---------------------------------------------------
@@ -54,7 +55,7 @@ Okej det är ett problem, hur gör vi något åt detta?
 
 **Språkbruk**
 
-Generellt brukar kvinnor bli avbrutna på möten markant fler gånger än män, fundera över detta nästa möte.
+Generellt brukar kvinnor bli avbrutna på möten markant fler gånger än män, fundera över detta nästa möte. Det är också vanligt att kvinnor får könad feedback och feedback på sig som person istället för vad de har utfört. (https://medium.com/@sailorhg/coding-like-a-girl-595b90791cce)
 
 **Missnöje**
 
