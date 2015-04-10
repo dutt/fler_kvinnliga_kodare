@@ -44,7 +44,7 @@ Okej det är ett problem, hur gör vi något åt detta?
 
 **Rekrytering - annonser**
 
-- Fundera över var du annonserar, Spotify fick in många fler tjejer i en hackathon när de annonserade utanför de vanliga kanalerna (https://labs.spotify.com/2015/01/13/diversify-how-we-created-a-hackathon-with-50-50-female-male-participants/)
+-Fundera över var du annonserar, Spotify fick in många fler tjejer i ett hackathon när de annonserade utanför de vanliga kanalerna (https://labs.spotify.com/2015/01/13/diversify-how-we-created-a-hackathon-with-50-50-female-male-participants/)
 - Ta hjälp av rättviseförmedlingen eller liknande organisationer.
 - Ta in kvinnor till hjälp när annonsen utformas, eller helt enkelt bara låt en kvinna designa hela annonsen. Har ni inga kvinnor på bolaget finns det konsulter.
 
