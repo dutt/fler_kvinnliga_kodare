@@ -81,6 +81,10 @@ Okej, jag är med på banan och vill ge mig in i debatten
 
 Om grupper är tvingade att kvotera är det mycket troligare att de faktiskt försöker hitta någon från den kvoterade gruppen.
 
+**'Blinda' CV'n**
+
+Ta bort namnen från CV'na, och formatera så de blir anonyma. Då är det troligare att ickenormativa deltagere kallas på intervjuv.
+
 --------------------------------------------------------
 
 Strålande, fler perspektiv är bra men ha följande i åtanke om du är man, vilket i dag majoriteten av er kommer vara:
