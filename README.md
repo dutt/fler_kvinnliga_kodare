@@ -70,17 +70,19 @@ Men har du tänkt på?
 
 **Biologiska skillnader**
 
-Om det är skillnader verkar det snarare vara till kvinnors fördel. http://venturebeat.com/2015/01/27/study-girls-outperform-boys-in-math-and-science-all-over-the-world/?hc_location=ufi
+Frågan är irrelevant för detta problem i mina ögon.
+- Om det inte är relevanta skillnader är det helt socialt.
+- Om det är relevanta skillnader är det bara ett till argument för att få in fler kvinnor i branschen för fler perspektiv, inte att ge upp och acceptera det hela.
+I ett bredare perspektiv är den relevant, men problemet med för få kvinnor i branschen behöver inget bredare perspektiv.
 
-Att förklara bristen på kvinnliga utvecklare med biologi är att befästa att "Det går inte att göra något åt, tjejer bara är såna". Det är inte produktivt. Dessutom stigmatiserar det kvinnor som har ett tekniskt intresse; "går mot sin biologi".
+För de som är intresserade av det bredare perspektivet kommer här lite länkar:
+
+Om det är skillnader verkar det snarare vara till kvinnors fördel. 
+- http://venturebeat.com/2015/01/27/study-girls-outperform-boys-in-math-and-science-all-over-the-world/?hc_location=ufi
 
 Det är inget lätt problem att avgöra. Hjärnan är extremt anpassningsbar och det är väldigt svårt att säga vad som är medfött och vad som är anpassningar efter sociala tryck.
 - http://www.svtplay.se/video/2762547/vetenskapens-varld/vetenskapens-varld-avsnitt-8
 - http://www.bbc.co.uk/news/science-environment-29405467?hc_location=ufi
-
-Men måste vi avgöra om det är biologiska skillnader? 
-- Om det inte är relevanta skillnader är det helt socialt.
-- Om det är relevanta skillnader är det bara ett till argument för att få in fler kvinnor i branschen för fler perspektiv, inte att ge upp och acceptera det hela.
 
 **Sociokulturella skillnader**
 
@@ -146,7 +148,7 @@ Hjälp de nya kvinnliga medarbetare som vill få kontakt med mer erfarna i bolag
 
 **Profilering**
 
-Vissa bolag uttrycker sig i stil med "Vi är idag 22% kvinnor i bolaget och siktar på att bli 30% till 2017"
+Kan uttrycka sig i stil med "Vi är idag 22% kvinnor i bolaget och siktar på att bli 30% till 2017", förutsatt att ni sedan står för det också såklart.
 
 Transvestiter och andra minoriteter
 ------------------------------------
