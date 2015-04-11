@@ -13,21 +13,39 @@ Eller lite längre, ja på grund av att dessa punkter:
 - Kvinnor i branschen blir på vissa ställen konsekvent sämre behandlade.
 - Duktiga kvinnor, och vissa män, orkar inte med klimatet och slutar.
 - Branschen skriker idag efter duktigt folk.
-- Bolag med jämnställd styrelse presterar konsekvent bättre.
+- Bolag med jämnställd styrelse presterar konsekvent bättre. [https://fortune.com/2015/03/03/women-led-companies-perform-three-times-better-than-the-sp-500/?hc_location=ufi]
 - Mindre risk för grupptänk med fler perspektiv.
 - Jämställda team är mer effektiva.
 
 Hur dåligt kan det vara?
 ------------------------
 
-Många kvinnor lämnar ett jobb som är bra betalt, har flexibla arbetstider och på pappret verkar schysst. Något är uppenbarligen galet.
+Kvinnor lämnar ett jobb som är bra betalt, har flexibla arbetstider och på pappret verkar schysst. Något är uppenbarligen galet.
+
+**Det blir inte/knappt bättre**
+
+http://www.ingenjorskarriar.se/ledarskap/article3890695.ece
+http://www.aauw.org/research/why-so-few/
+
+**Lön**
+
+Kvinnor har idag lägre lön.
+
 
 Men har du tänkt på?
 --------------------
 
 **Biologiska skillnader**
 
-Att förklara bristen på kvinnliga utvecklare med biologi är att befästa att "Det går inte att göra något åt, tjejer bara är såna". Det är inte produktivt. Dessutom stigmatiserar det kvinnor som har ett tekniskt intresse; vi "går mot vår biologi".
+Om det är skillnader verkar det snarare vara till kvinnors fördel. http://venturebeat.com/2015/01/27/study-girls-outperform-boys-in-math-and-science-all-over-the-world/?hc_location=ufi
+
+Att förklara bristen på kvinnliga utvecklare med biologi är att befästa att "Det går inte att göra något åt, tjejer bara är såna". Det är inte produktivt. Dessutom stigmatiserar det kvinnor som har ett tekniskt intresse; "går mot sin biologi".
+
+Det är svårt med neurologi. Hjärnan är extremt anpassningsbar och det är väldigt svårt att säga vad som är medfött och vad som är anpassningar efter sociala tryck.
+http://www.svtplay.se/video/2762547/vetenskapens-varld/vetenskapens-varld-avsnitt-8
+http://www.bbc.co.uk/news/science-environment-29405467?hc_location=ufi
+
+Även om det skulle vara så att neurologin skiljer sig åt så radikalt är det bara ett till argument för att få in fler kvinnor i branschen för fler perspektiv, inte att ge upp och acceptera det hela.
 
 **Sociokulturella skillnader**
 
@@ -41,6 +59,10 @@ Vanliga exempel verkar vara make up-artister och byggjobbare. Dessutom är olika
 
 Okej det är ett problem, hur gör vi något åt detta?
 ---------------------------------------------------
+
+**Allmänt**
+
+Bra länk med konkret information om hur kvinnor och män agerar olika i arbetslivet, med förslag på sätt att hantera skillnaderna: http://www.wsj.com/articles/women-at-work-a-guide-for-men-1418418595?mod=e2fb&hc_location=ufi
 
 **Rekrytering - annonser**
 
@@ -75,16 +97,23 @@ Generellt brukar män begära lönehöjning eller befodran när de matchar 50-60
 
 - Är män duktiga om de är föräldralediga två månader?
 
-Okej, jag är med på banan och vill ge mig in i debatten
+**Måttlig kvotering / positiv särbehandlnig**
 
-**Kvotering**
-
-Om grupper är tvingade att kvotera är det mycket troligare att de faktiskt försöker hitta någon från den kvoterade gruppen.
+En omdebatterad lösning men det skulle ge förändring. Om bolaget har målet 30% kvinnor till 2017 med 5% ökning varje år och det målet inte nås har man misslyckats och förändringar behövs. Andra processer, mer resurser till rekrytering eller något annat. 
 
 **'Blinda' CV'n**
 
 Ta bort namnen från CV'na, och formatera så de blir anonyma. Då är det troligare att ickenormativa deltagere kallas på intervjuv.
 
+**Mentorskap**
+
+Hjälp de nya kvinnliga medarbetare som vill få kontakt med mer erfarna i bolaget för rådgivning, bolla funderingar och annat. Förslagsvis mer erfarna kvinnor men har ni inga sådana kan män utbildas i de problem som bara kvinnor möter och vara ett okej bollplank med.
+
+**Profilering**
+
+Vissa bolag uttrycker sig i stil med "Vi är idag 22% kvinnor i bolaget och siktar på att bli 30% till 2017"
+
+Okej, jag är med på banan och vill ge mig in i debatten
 --------------------------------------------------------
 
 Strålande, fler perspektiv är bra men ha följande i åtanke om du är man, vilket i dag majoriteten av er kommer vara:
@@ -93,3 +122,10 @@ Strålande, fler perspektiv är bra men ha följande i åtanke om du är man, vi
 - De har tolkningsföreträde, du kan inte säga hur deras värld ser ut.
 - Håll det sakligt.
 - Skippa teoretiserandet, vi måste inte spika exakt varför det är som det är.
+
+Tack
+----
+
+Tack till alla som...
+- ...bidragit med bra PR.
+- ...jag snott välskrivna formuleringar av, vill ni ha cred i dokumnentet hojta till.
