@@ -15,7 +15,7 @@ Eller lite längre, ja på grund av att dessa punkter:
 - Branschen skriker idag efter duktigt folk.
 - Bolag med jämnställd styrelse presterar konsekvent bättre. [https://fortune.com/2015/03/03/women-led-companies-perform-three-times-better-than-the-sp-500/?hc_location=ufi]
 - Mindre risk för grupptänk med fler perspektiv.
-- Jämställda team är mer effektiva.
+- Jämställda team är mer effektiva, http://gbr.pepperdine.edu/2010/08/gender-impacts-virtual-work-teams/
 
 **Sortera upp lite**
 - http://www.ingenjorskarriar.se/ledarskap/article3890695.ece
