@@ -148,6 +148,14 @@ Hjälp de nya kvinnliga medarbetare som vill få kontakt med mer erfarna i bolag
 
 Vissa bolag uttrycker sig i stil med "Vi är idag 22% kvinnor i bolaget och siktar på att bli 30% till 2017"
 
+Transvestiter och andra minoriteter
+------------------------------------
+
+En god poäng, men jag skulle vilja att detta repo fokuserade på just problemet med få kvinnor.
+
+**PERSONLIGT, PR PÅ DETTA EXTRA VÄLKOMNA**
+Jag tror dock att om vi kan bryta männens överväldigande majoritet på något sätt blir det lättare för att andra grupper att också bli accepterade.
+
 Okej, jag är med på banan och vill ge mig in i debatten
 --------------------------------------------------------
 
