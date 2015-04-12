@@ -6,13 +6,11 @@ Att det är få kvinnliga utvecklare har troligen inte undgått någon vid det h
 Är det ett problem vi borde lösa?
 ---------------------------------
 
-Ja.
+Ja, på grund av att dessa punkter:
 
-Eller lite längre, ja på grund av att dessa punkter:
-
-- Kvinnor i branschen blir på vissa ställen konsekvent sämre behandlade.
-- Duktiga kvinnor, och vissa män, orkar inte med klimatet och slutar.
+- Kvinnor i branschen blir generellt sämre behandlade. Se nästa sektion.
 - Branschen skriker idag efter duktigt folk.
+- Duktiga kvinnor, och vissa män, orkar inte med klimatet och slutar.
 - Bolag med jämnställd styrelse presterar konsekvent bättre,  https://fortune.com/2015/03/03/women-led-companies-perform-three-times-better-than-the-sp-500
 - Mindre risk för grupptänk med fler perspektiv.
 - Jämställda team är mer effektiva, http://gbr.pepperdine.edu/2010/08/gender-impacts-virtual-work-teams/
