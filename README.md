@@ -17,11 +17,8 @@ Eller lite längre, ja på grund av att dessa punkter:
 - Mindre risk för grupptänk med fler perspektiv.
 - Jämställda team är mer effektiva, http://gbr.pepperdine.edu/2010/08/gender-impacts-virtual-work-teams/
 
-http://www.aauw.org/research/why-so-few/
-http://www.theguardian.com/business/2015/mar/06/johns-davids-and-ians-outnumber-female-chief-executives-in-ftse-100
-
 Beskrivning av kvinnors perspektiv
-------------------------
+-----------------------------------
 
 Kvinnor lämnar ett jobb som är bra betalt, har flexibla arbetstider och på pappret verkar schysst. Något är uppenbarligen galet.
 
@@ -29,12 +26,13 @@ Kvinnor lämnar ett jobb som är bra betalt, har flexibla arbetstider och på pa
 
 - http://mobile.nytimes.com/2015/02/08/opinion/sunday/sheryl-sandberg-and-adam-grant-on-women-doing-office-housework.html
 - http://www.medarbetarportalen.gu.se/News/gu-journal/arkiv/2014/nummer-3-14/debatt--man-och-kvinnor-bedoms-olika
+- http://www.aauw.org/research/why-so-few/
 
 Kvinnor avanceras mindre:
 - http://shortcut.nu/artiklar/ny-studie-visar-man-gillar-inte-karriarkvinnor/
 - http://nymag.com/thecut/2014/12/stop-blaming-women-for-holding-themselves-back.html
 - https://hbr.org/2010/09/why-men-still-get-more-promotions-than-women
-
+- http://www.theguardian.com/business/2015/mar/06/johns-davids-and-ians-outnumber-female-chief-executives-in-ftse-100
 Kvinnor får mindre finansiering, 
 - http://www.newsweek.com/2015/02/06/what-silicon-valley-thinks-women-302821.html, 
 - http://www.statskontoret.se/nyhetsarkiv/kvinnor-far-mindre-forskningsmedel-an-man/
