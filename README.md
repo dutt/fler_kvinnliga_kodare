@@ -77,19 +77,17 @@ Det är inget lätt problem att avgöra. Hjärnan är extremt anpassningsbar och
 - http://www.bbc.co.uk/news/science-environment-29405467?hc_location=ufi
 
 Om det finns relevanta skillnader:
-- För 50 år sedan var andelen kvinnor markant högre. Har biologin ändrats sedan dess?
+- 1960-1990 ökade andelen kvinnor men där vände det. Har biologin ändrats sedan dess?
 - Hur kommer det sig att i andra kulturer är det markant mer jämställt. 
 - - http://dl.acm.org/citation.cfm?doid=543812.543839
 - - http://www.techrepublic.com/blog/software-engineer/it-gender-gap-where-are-the-female-programmers/
 - Om en man genomgår hormonbehandling och blir kvinna, passar hon då sämre?
 - Hur kommer det sig att vissa män är rätt värdelösa på programmering?
 
-För de som är intresserade av det bredare perspektivet kommer här lite länkar:
-
-Om det är skillnader verkar det snarare vara till kvinnors fördel. 
+Om det är relevanta skillnader verkar det snarare vara till kvinnors fördel. 
 - http://venturebeat.com/2015/01/27/study-girls-outperform-boys-in-math-and-science-all-over-the-world/?hc_location=ufi
 
-**Sociokulturella skillnader**
+**Sociala/kulturella skillnader**
 
 Sådana går att göra något åt.
 
@@ -97,7 +95,7 @@ Sådana går att göra något åt.
 
 Kanske det, kanske inte. Det spelar ingen roll för detta handlar inte om den branschen utan om programmeringsbranschen.
 
-Vanliga exempel verkar vara make up-artister och byggjobbare. Dessutom är olika yrkesgruppers kön något som omdefinieras historiskt, där yrken som utvecklas till att ses som mer avancerade och tekniska konsekvent blir mer manliga och de som ses som mindre komplexa övertiden också blir mer kvinnliga. Exempel på detta är t.ex. sekreterare som gått från manligt till kvinnligt och programmerare där utvecklingen har blivit det motsatta.
+Vanliga exempel verkar vara make up-artister och byggjobbare. Dessutom är olika yrkesgruppers kön något som omdefinieras historiskt, där yrken som utvecklas till att ses som mer avancerade och tekniska konsekvent blir mer manliga och de som ses som mindre komplexa över tiden också blir mer kvinnliga. Exempel på detta är t.ex. sekreterare som gått från manligt till kvinnligt och programmerare där utvecklingen har blivit det motsatta.
 
 Okej det är ett problem, hur gör vi något åt detta?
 ---------------------------------------------------
@@ -138,6 +136,7 @@ Generellt brukar män begära lönehöjning eller befodran när de matchar 50-60
 **Föräldraledigt**
 
 - Är män duktiga om de är föräldralediga två månader?
+- Uppmuntras eller bestraffas folk som tar föräldraledigt?
 
 **Måttlig kvotering / positiv särbehandlnig**
 
