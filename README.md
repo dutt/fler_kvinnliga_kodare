@@ -163,6 +163,7 @@ Transvestiter, invandrare och andra minoriteter
 En god poäng, men jag skulle vilja att detta repo fokuserade på just problemet med få kvinnor. Med det sagt kan troligen många av lösningsförslagen appliceras även för att öka andelen övriga minoriteter.
 
 **PERSONLIGT, PR PÅ DETTA EXTRA VÄLKOMNA**
+
 Jag tror dock att om vi kan bryta männens överväldigande majoritet på något sätt blir det lättare för att andra grupper att också bli accepterade.
 
 Att tänka på under debatter
