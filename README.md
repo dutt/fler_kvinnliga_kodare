@@ -157,7 +157,7 @@ Kan uttrycka sig i stil med "Vi är idag 22% kvinnor i bolaget och siktar på at
 
 En variant som förutsätter att ett antal sökande finns, vilket idag inte alls gäller alla bolag. Ge alla samma test och sätt upp en maskin som mäter testet på diverse vis.
 
-Transvestiter, invandrare och andra minoriteter
+HBTQ, invandrare och andra minoriteter
 -----------------------------------------------
 
 En god poäng, men jag skulle vilja att detta repo fokuserade på just problemet med få kvinnor. Med det sagt kan troligen många av lösningsförslagen appliceras även för att öka andelen övriga minoriteter.
