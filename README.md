@@ -70,19 +70,24 @@ Men har du tänkt på?
 
 **Biologiska skillnader**
 
-Frågan är irrelevant för detta problem i mina ögon.
-- Om det inte är relevanta skillnader är det helt socialt.
-- Om det är relevanta skillnader är det bara ett till argument för att få in fler kvinnor i branschen för fler perspektiv, inte att ge upp och acceptera det hela.
-I ett bredare perspektiv är den relevant, men problemet med för få kvinnor i branschen behöver inget bredare perspektiv.
+Att det finns skillnader är alla överrens om. Det är betydligt mer omdebatterat hurvida skillnaderna är relevanta för yrket som programmerare och om de är kvar från födseln eller är inlärda.
+
+Det är inget lätt problem att avgöra. Hjärnan är extremt anpassningsbar och det är väldigt svårt att säga vad som är medfött och vad som är anpassningar efter sociala tryck.
+- http://www.svtplay.se/video/2762547/vetenskapens-varld/vetenskapens-varld-avsnitt-8 Notera avsnittet runt 40-45min  där en forskare säger att kvinnor presterar markant bättre på spatiala tester om testerna formuleras om. "Hur ser det ut ur den personens perspektiv" istället för "Om du roterar den formen, vilka matchar?". Om du hela ditt liv får höra att du är sämre på spatial förmåga kommer du prestera sämre.
+- http://www.bbc.co.uk/news/science-environment-29405467?hc_location=ufi
+
+Om det finns relevanta skillnader:
+- För 50 år sedan var andelen kvinnor markant högre. Har biologin ändrats sedan dess?
+- Hur kommer det sig att i andra kulturer är det markant mer jämställt. 
+- - http://dl.acm.org/citation.cfm?doid=543812.543839
+- - http://www.techrepublic.com/blog/software-engineer/it-gender-gap-where-are-the-female-programmers/
+- Om en man genomgår hormonbehandling och blir kvinna, passar hon då sämre?
+- Hur kommer det sig att vissa män är rätt värdelösa på programmering?
 
 För de som är intresserade av det bredare perspektivet kommer här lite länkar:
 
 Om det är skillnader verkar det snarare vara till kvinnors fördel. 
 - http://venturebeat.com/2015/01/27/study-girls-outperform-boys-in-math-and-science-all-over-the-world/?hc_location=ufi
-
-Det är inget lätt problem att avgöra. Hjärnan är extremt anpassningsbar och det är väldigt svårt att säga vad som är medfött och vad som är anpassningar efter sociala tryck.
-- http://www.svtplay.se/video/2762547/vetenskapens-varld/vetenskapens-varld-avsnitt-8
-- http://www.bbc.co.uk/news/science-environment-29405467?hc_location=ufi
 
 **Sociokulturella skillnader**
 
@@ -136,7 +141,9 @@ Generellt brukar män begära lönehöjning eller befodran när de matchar 50-60
 
 **Måttlig kvotering / positiv särbehandlnig**
 
-En omdebatterad lösning men det skulle ge förändring. Om bolaget har målet 30% kvinnor till 2017 med 5% ökning varje år och det målet inte nås har man misslyckats och förändringar behövs. Andra processer, mer resurser till rekrytering eller något annat. 
+Om bolaget har målet 30% kvinnor till 2017 med 5% ökning varje år och det målet inte nås har man misslyckats och förändringar behövs. Andra processer, mer resurser till rekrytering eller något annat. 
+
+Positiv särbehandling existerar idag med, men till vita mäns fördel istället.
 
 **'Blinda' CV'n**
 
@@ -150,10 +157,14 @@ Hjälp de nya kvinnliga medarbetare som vill få kontakt med mer erfarna i bolag
 
 Kan uttrycka sig i stil med "Vi är idag 22% kvinnor i bolaget och siktar på att bli 30% till 2017", förutsatt att ni sedan står för det också såklart.
 
-Transvestiter och andra minoriteter
+**Automatiserade kodtest**
+
+En variant som förutsätter att ett antal sökande finns, vilket idag inte alls gäller alla bolag. Ge alla samma test och sätt upp en maskin som mäter testet på diverse vis.
+
+Transvestiter, invandrare och andra minoriteter
 ------------------------------------
 
-En god poäng, men jag skulle vilja att detta repo fokuserade på just problemet med få kvinnor.
+En god poäng, men jag skulle vilja att detta repo fokuserade på just problemet med få kvinnor. Med det sagt kan troligen många av lösningsförslagen appliceras även för att öka andelen övriga minoriteter.
 
 **PERSONLIGT, PR PÅ DETTA EXTRA VÄLKOMNA**
 Jag tror dock att om vi kan bryta männens överväldigande majoritet på något sätt blir det lättare för att andra grupper att också bli accepterade.
