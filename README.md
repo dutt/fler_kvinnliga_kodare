@@ -4,7 +4,7 @@ Introduktion
 Att det är få kvinnliga utvecklare har troligen inte undgått någon vid det här laget. Efter en längre nät-debatt bestämde jag mig för att försöka sammanfatta frågan för att på snabbbast vis få upp nya på banan.
 
 Är det ett problem vi borde lösa?
--------------------
+---------------------------------
 
 Ja.
 
@@ -13,20 +13,33 @@ Eller lite längre, ja på grund av att dessa punkter:
 - Kvinnor i branschen blir på vissa ställen konsekvent sämre behandlade.
 - Duktiga kvinnor, och vissa män, orkar inte med klimatet och slutar.
 - Branschen skriker idag efter duktigt folk.
-- Bolag med jämnställd styrelse presterar konsekvent bättre. [https://fortune.com/2015/03/03/women-led-companies-perform-three-times-better-than-the-sp-500/?hc_location=ufi]
+- Bolag med jämnställd styrelse presterar konsekvent bättre,  https://fortune.com/2015/03/03/women-led-companies-perform-three-times-better-than-the-sp-500
 - Mindre risk för grupptänk med fler perspektiv.
 - Jämställda team är mer effektiva, http://gbr.pepperdine.edu/2010/08/gender-impacts-virtual-work-teams/
 
-**Sortera upp lite**
-- http://www.ingenjorskarriar.se/ledarskap/article3890695.ece
-- http://www.aauw.org/research/why-so-few/
-- http://www.theguardian.com/business/2015/mar/06/johns-davids-and-ians-outnumber-female-chief-executives-in-ftse-100?hc_location=ufi
-- http://mashable.com/2015/03/06/gender-equality-pay-gap/?utm_cid=mash-com-fb-main-link
+http://www.aauw.org/research/why-so-few/
+http://www.theguardian.com/business/2015/mar/06/johns-davids-and-ians-outnumber-female-chief-executives-in-ftse-100
 
-Hur dåligt kan det vara?
+Beskrivning av kvinnors perspektiv
 ------------------------
 
 Kvinnor lämnar ett jobb som är bra betalt, har flexibla arbetstider och på pappret verkar schysst. Något är uppenbarligen galet.
+
+**Diskriminering**
+
+- http://mobile.nytimes.com/2015/02/08/opinion/sunday/sheryl-sandberg-and-adam-grant-on-women-doing-office-housework.html
+- http://www.medarbetarportalen.gu.se/News/gu-journal/arkiv/2014/nummer-3-14/debatt--man-och-kvinnor-bedoms-olika
+
+Kvinnor avanceras mindre:
+- http://shortcut.nu/artiklar/ny-studie-visar-man-gillar-inte-karriarkvinnor/
+- http://nymag.com/thecut/2014/12/stop-blaming-women-for-holding-themselves-back.html
+- https://hbr.org/2010/09/why-men-still-get-more-promotions-than-women
+
+Kvinnor får mindre finansiering, 
+- http://www.newsweek.com/2015/02/06/what-silicon-valley-thinks-women-302821.html, 
+- http://www.statskontoret.se/nyhetsarkiv/kvinnor-far-mindre-forskningsmedel-an-man/
+
+Kvinnor får hårdare utvärderingar, http://www.dailylife.com.au/life-and-love/work-and-money/why-women-get-tougher-performance-reviews-than-men-20141012-3hu6n.html
 
 **Det blir inte/knappt bättre**
 
@@ -35,7 +48,7 @@ Kvinnor lämnar ett jobb som är bra betalt, har flexibla arbetstider och på pa
 
 **Lön**
 
-Kvinnor har idag lägre lön, män har idag runt 15% högre lön.
+Kvinnor har idag lägre genomsnittslön.
 
 - http://www.sverigesingenjorer.se/Aktuellt-och-press/Nyhetsarkiv/Pressmeddelanden/Ingangsloner/
 - http://www.ingenjorskarriar.se/lon/article3653210.ece
@@ -45,28 +58,10 @@ Kvinnor har idag lägre lön, män har idag runt 15% högre lön.
 - http://ec.europa.eu/justice/gender-equality/files/gender_pay_gap/140319_gpg_sv.pdf
 - http://www.utredarna.nu/ulrikahagstrom/2012/08/24/vad-sager-den-officiella-statistiken-om-loneskillnaden-mellan-kvinnor-och-man-2011/
 - http://www.dn.se/ekonomi/man-har-ett-hogre-marknadsvarde-an-kvinnor/
+- http://mashable.com/2015/03/06/gender-equality-pay-gap/
 
-**Diskriminering av olika slag, SORTERA**
-
-- http://gul.gu.se/public/pp/public_courses/course57138/published/1355504584763/resourceId/21702541/content/835de243-a5b3-4b18-84b0-5c5f32809a57/f%C3%B6rel%C3%A4sn2-oh.pdf
-- http://www.newrepublic.com/article/119239/transgender-people-can-explain-why-women-dont-advance-work
-- http://shortcut.nu/artiklar/ny-studie-visar-man-gillar-inte-karriarkvinnor/?hc_location=ufi
-- https://medium.com/@sailorhg/coding-like-a-girl-595b90791cce?hc_location=ufi
-- http://www.nytimes.com/2015/01/11/opinion/sunday/speaking-while-female.html?smid=tw-share&&_r=0&hc_location=ufi#038;_r=0
-- http://nymag.com/thecut/2014/12/stop-blaming-women-for-holding-themselves-back.html?hc_location=ufi
-- http://www.newsweek.com/2015/02/06/what-silicon-valley-thinks-women-302821.html?hc_location=ufi
-- http://mobile.nytimes.com/2015/02/08/opinion/sunday/sheryl-sandberg-and-adam-grant-on-women-doing-office-housework.html?referrer&hc_location=ufi
-- http://www.gendertimer.com/?hc_location=ufi
-- http://www.businessinsider.com/what-bossy-words-says-about-gender-at-work-2014-3?IR=T&hc_location=ufi
-- http://m.dailylife.com.au/life-and-love/work-and-money/why-women-get-tougher-performance-reviews-than-men-20141012-3hu6n.html?hc_location=ufi
-- http://www.statskontoret.se/nyhetsarkiv/kvinnor-far-mindre-forskningsmedel-an-man/
-- http://www.byggvarlden.se/pratar-du-jamstallt-1839/blog.html
-- http://www.diva-portal.org/smash/get/diva2:604201/FULLTEXT01.pdf
-- https://hbr.org/2010/09/why-men-still-get-more-promotions-than-women
-- http://www.medarbetarportalen.gu.se/News/gu-journal/arkiv/2014/nummer-3-14/debatt--man-och-kvinnor-bedoms-olika/?skipSSOCheck=true&referer=http%3A%2F%2Fwww.google.fi%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D1%26ved%3D0CCMQFjAA%26url%3Dhttp%253A%252F%252Fwww.medarbetarportalen.gu.se%252FNews%252Fgu-journal%252Farkiv%252F2014%252Fnummer-3-14%252Fdebatt--man-och-kvinnor-bedoms-olika%252F%26ei%3DaNInVcTOKYKsswHc-ICYBA%26usg%3DAFQjCNE2xHYOGZ4idM6rCxdZlKlkQZfi8g%26bvm%3Dbv.90491159%2Cd.bGg
-
-Men har du tänkt på?
---------------------
+Vanliga bortförklaringar eller sidospår
+---------------------------------------
 
 **Biologiska skillnader**
 
@@ -81,7 +76,7 @@ Om det finns relevanta skillnader:
 - Hur kommer det sig att i andra kulturer är det markant mer jämställt. 
 - - http://dl.acm.org/citation.cfm?doid=543812.543839
 - - http://www.techrepublic.com/blog/software-engineer/it-gender-gap-where-are-the-female-programmers/
-- Om en man genomgår hormonbehandling och blir kvinna, passar hon då sämre?
+- Om en man genomgår hormonbehandling och blir kvinna, passar hon då sämre? http://www.newrepublic.com/article/119239/transgender-people-can-explain-why-women-dont-advance-work
 - Hur kommer det sig att vissa män är rätt värdelösa på programmering?
 
 Om det är relevanta skillnader verkar det snarare vara till kvinnors fördel. 
@@ -97,8 +92,8 @@ Kanske det, kanske inte. Det spelar ingen roll för detta handlar inte om den br
 
 Vanliga exempel verkar vara make up-artister och byggjobbare. Dessutom är olika yrkesgruppers kön något som omdefinieras historiskt, där yrken som utvecklas till att ses som mer avancerade och tekniska konsekvent blir mer manliga och de som ses som mindre komplexa över tiden också blir mer kvinnliga. Exempel på detta är t.ex. sekreterare som gått från manligt till kvinnligt och programmerare där utvecklingen har blivit det motsatta.
 
-Okej det är ett problem, hur gör vi något åt detta?
----------------------------------------------------
+Metoder för att börja åtgärda problemet
+---------------------------------------
 
 **Allmänt**
 
@@ -117,7 +112,13 @@ Bra länk med konkret information om hur kvinnor och män agerar olika i arbetsl
 
 **Språkbruk**
 
-Generellt brukar kvinnor bli avbrutna på möten markant fler gånger än män, fundera över detta nästa möte. Det är också vanligt att kvinnor får könad feedback och feedback på sig som person istället för vad de har utfört. (https://medium.com/@sailorhg/coding-like-a-girl-595b90791cce)
+Generellt brukar kvinnor bli avbrutna på möten markant fler gånger än män, fundera över detta nästa möte. Det är också vanligt att kvinnor får könad feedback och feedback på sig som person istället för vad de har utfört. 
+- https://medium.com/@sailorhg/coding-like-a-girl-595b90791cce 
+- http://gul.gu.se/public/pp/public_courses/course57138/published/1355504584763/resourceId/21702541/content/835de243-a5b3-4b18-84b0-5c5f32809a57/f%C3%B6rel%C3%A4sn2-oh.pdf
+- http://www.nytimes.com/2015/01/11/opinion/sunday/speaking-while-female.html
+- http://www.businessinsider.com/what-bossy-words-says-about-gender-at-work-2014-3
+- http://www.byggvarlden.se/pratar-du-jamstallt-1839/blog.html
+- http://www.diva-portal.org/smash/get/diva2:604201/FULLTEXT01.pdf
 
 **Missnöje**
 
@@ -161,15 +162,15 @@ Kan uttrycka sig i stil med "Vi är idag 22% kvinnor i bolaget och siktar på at
 En variant som förutsätter att ett antal sökande finns, vilket idag inte alls gäller alla bolag. Ge alla samma test och sätt upp en maskin som mäter testet på diverse vis.
 
 Transvestiter, invandrare och andra minoriteter
-------------------------------------
+-----------------------------------------------
 
 En god poäng, men jag skulle vilja att detta repo fokuserade på just problemet med få kvinnor. Med det sagt kan troligen många av lösningsförslagen appliceras även för att öka andelen övriga minoriteter.
 
 **PERSONLIGT, PR PÅ DETTA EXTRA VÄLKOMNA**
 Jag tror dock att om vi kan bryta männens överväldigande majoritet på något sätt blir det lättare för att andra grupper att också bli accepterade.
 
-Okej, jag är med på banan och vill ge mig in i debatten
---------------------------------------------------------
+Att tänka på under debatter
+---------------------------
 
 Strålande, fler perspektiv är bra men ha följande i åtanke om du är man, vilket i dag majoriteten av er kommer vara:
 
@@ -181,6 +182,4 @@ Strålande, fler perspektiv är bra men ha följande i åtanke om du är man, vi
 Tack
 ----
 
-Tack till alla som...
-- ...bidragit med bra PR.
-- ...jag snott välskrivna formuleringar av, vill ni ha cred i dokumnentet hojta till.
+Tack till alla som bidragit med länkar, beskrivningar, tankar, PR:ar och annat.
