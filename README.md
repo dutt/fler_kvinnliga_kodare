@@ -170,7 +170,7 @@ Att tänka på under debatter
 
 Strålande, fler perspektiv är bra men ha följande i åtanke om du är man, vilket i dag majoriteten av er kommer vara:
 
-- Avfärda inte vad de säger.
+- Avfärda inte vad kvinnor säger. Vissa kvinnor har aldrig upplevt problemet, andra har upplevt det många gånger.
 - De har tolkningsföreträde, du kan inte säga hur deras värld ser ut.
 - Håll det sakligt.
 - Skippa teoretiserandet, vi måste inte spika exakt varför det är som det är.
