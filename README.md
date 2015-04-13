@@ -18,7 +18,7 @@ Ja, på grund av att dessa punkter:
 Dokumentet växte så jag har delat upp det i sektioner:
 - [Beskrivning av kvinnors perspektiv](womens_perspective.md)
 - [Metoder för att börja åtgärda problemet](solutions.md)
-- [Vanliga bortförklaringar och sidospår](mansplainations.md)
+- [Vanliga bortförklaringar och sidospår](detours.md)
 
 HBTQ, invandrare och andra minoriteter
 -----------------------------------------------
