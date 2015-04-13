@@ -61,7 +61,7 @@ Vanliga bortförklaringar eller sidospår
 
 **Biologiska skillnader**
 
-Att det finns skillnader är alla överrens om. Det är betydligt mer omdebatterat hurvida skillnaderna är relevanta för yrket som programmerare och om de är kvar från födseln eller är inlärda.
+Att det finns skillnader är alla överens om. Det är betydligt mer omdebatterat hurvida skillnaderna är relevanta för yrket som programmerare och om de är kvar från födseln eller är inlärda.
 
 Det är inget lätt problem att avgöra. Hjärnan är extremt anpassningsbar och det är väldigt svårt att säga vad som är medfött och vad som är anpassningar efter sociala tryck.
 - http://www.svtplay.se/video/2762547/vetenskapens-varld/vetenskapens-varld-avsnitt-8 Notera avsnittet runt 40-45min  där en forskare säger att kvinnor presterar markant bättre på spatiala tester om testerna formuleras om. "Hur ser det ut ur den personens perspektiv" istället för "Om du roterar den formen, vilka matchar?". Om du hela ditt liv får höra att du är sämre på spatial förmåga kommer du prestera sämre.
