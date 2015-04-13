@@ -1,0 +1,1 @@
+- Bolag med jämnställd styrelse presterar konsekvent bättre,  https://fortune.com/2015/03/03/women-led-companies-perform-three-times-better-than-the-sp-500

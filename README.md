@@ -11,14 +11,13 @@ Ja, på grund av att dessa punkter:
 - Kvinnor i branschen blir generellt sämre behandlade. Se nästa sektion.
 - Branschen skriker idag efter duktigt folk.
 - Duktiga kvinnor, och vissa män, orkar inte med klimatet och slutar.
-- Bolag med jämnställd styrelse presterar konsekvent bättre,  https://fortune.com/2015/03/03/women-led-companies-perform-three-times-better-than-the-sp-500
 - Mindre risk för grupptänk med fler perspektiv.
 - Jämställda team är mer effektiva, http://gbr.pepperdine.edu/2010/08/gender-impacts-virtual-work-teams/
 
 Dokumentet växte så jag har delat upp det i sektioner:
 - [Beskrivning av kvinnors perspektiv](womens_perspective.md)
 - [Metoder för att börja åtgärda problemet](solutions.md)
-- [Vanliga bortförklaringar och sidospår](mansplainations.md)
+- [Vanliga bortförklaringar och sidospår](detours.md)
 
 HBTQ, invandrare och andra minoriteter
 -----------------------------------------------
