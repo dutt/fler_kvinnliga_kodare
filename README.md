@@ -31,6 +31,7 @@ Kvinnor avanceras mindre:
 - http://nymag.com/thecut/2014/12/stop-blaming-women-for-holding-themselves-back.html
 - https://hbr.org/2010/09/why-men-still-get-more-promotions-than-women
 - http://www.theguardian.com/business/2015/mar/06/johns-davids-and-ians-outnumber-female-chief-executives-in-ftse-100
+
 Kvinnor får mindre finansiering, 
 - http://www.newsweek.com/2015/02/06/what-silicon-valley-thinks-women-302821.html, 
 - http://www.statskontoret.se/nyhetsarkiv/kvinnor-far-mindre-forskningsmedel-an-man/
@@ -55,38 +56,6 @@ Kvinnor har idag lägre genomsnittslön.
 - http://www.utredarna.nu/ulrikahagstrom/2012/08/24/vad-sager-den-officiella-statistiken-om-loneskillnaden-mellan-kvinnor-och-man-2011/
 - http://www.dn.se/ekonomi/man-har-ett-hogre-marknadsvarde-an-kvinnor/
 - http://mashable.com/2015/03/06/gender-equality-pay-gap/
-
-Vanliga bortförklaringar eller sidospår
----------------------------------------
-
-**Biologiska skillnader**
-
-Att det finns skillnader är alla överens om. Det är betydligt mer omdebatterat hurvida skillnaderna är relevanta för yrket som programmerare och om de är kvar från födseln eller är inlärda.
-
-Det är inget lätt problem att avgöra. Hjärnan är extremt anpassningsbar och det är väldigt svårt att säga vad som är medfött och vad som är anpassningar efter sociala tryck.
-- http://www.svtplay.se/video/2762547/vetenskapens-varld/vetenskapens-varld-avsnitt-8 Notera avsnittet runt 40-45min  där en forskare säger att kvinnor presterar markant bättre på spatiala tester om testerna formuleras om. "Hur ser det ut ur den personens perspektiv" istället för "Om du roterar den formen, vilka matchar?". Om du hela ditt liv får höra att du är sämre på spatial förmåga kommer du prestera sämre.
-- http://www.bbc.co.uk/news/science-environment-29405467?hc_location=ufi
-
-Om det finns relevanta skillnader:
-- 1960-1990 ökade andelen kvinnor men där vände det. Har biologin ändrats sedan dess?
-- Hur kommer det sig att i andra kulturer är det markant mer jämställt. 
-- - http://dl.acm.org/citation.cfm?doid=543812.543839
-- - http://www.techrepublic.com/blog/software-engineer/it-gender-gap-where-are-the-female-programmers/
-- Om en man genomgår hormonbehandling och blir kvinna, passar hon då sämre? http://www.newrepublic.com/article/119239/transgender-people-can-explain-why-women-dont-advance-work
-- Hur kommer det sig att vissa män är rätt värdelösa på programmering?
-
-Om det är relevanta skillnader verkar det snarare vara till kvinnors fördel. 
-- http://venturebeat.com/2015/01/27/study-girls-outperform-boys-in-math-and-science-all-over-the-world/?hc_location=ufi
-
-**Sociala/kulturella skillnader**
-
-Sådana går att göra något åt.
-
-**Men en-ennan-bransch är inte heller jämställd**
-
-Kanske det, kanske inte. Det spelar ingen roll för detta handlar inte om den branschen utan om programmeringsbranschen.
-
-Vanliga exempel verkar vara make up-artister och byggjobbare. Dessutom är olika yrkesgruppers kön något som omdefinieras historiskt, där yrken som utvecklas till att ses som mer avancerade och tekniska konsekvent blir mer manliga och de som ses som mindre komplexa över tiden också blir mer kvinnliga. Exempel på detta är t.ex. sekreterare som gått från manligt till kvinnligt och programmerare där utvecklingen har blivit det motsatta.
 
 Metoder för att börja åtgärda problemet
 ---------------------------------------
@@ -156,6 +125,37 @@ Kan uttrycka sig i stil med "Vi är idag 22% kvinnor i bolaget och siktar på at
 **Automatiserade kodtest**
 
 En variant som förutsätter att ett antal sökande finns, vilket idag inte alls gäller alla bolag. Ge alla samma test och sätt upp en maskin som mäter testet på diverse vis.
+
+Vanliga bortförklaringar eller sidospår
+---------------------------------------
+
+**Biologiska skillnader**
+
+Att det finns skillnader är alla överens om. Det är betydligt mer omdebatterat hurvida skillnaderna är relevanta för yrket som programmerare och om de är kvar från födseln eller är inlärda.
+
+Det är inget lätt problem att avgöra. Hjärnan är extremt anpassningsbar och det är väldigt svårt att säga vad som är medfött och vad som är anpassningar efter sociala tryck.
+- http://www.svtplay.se/video/2762547/vetenskapens-varld/vetenskapens-varld-avsnitt-8 Notera avsnittet runt 40-45min  där en forskare säger att kvinnor presterar markant bättre på spatiala tester om testerna formuleras om. "Hur ser det ut ur den personens perspektiv" istället för "Om du roterar den formen, vilka matchar?". Om du hela ditt liv får höra att du är sämre på spatial förmåga kommer du prestera sämre.
+- http://www.bbc.co.uk/news/science-environment-29405467?hc_location=ufi
+
+Om det finns relevanta skillnader:
+- 1960-1990 ökade andelen kvinnor men där vände det. Har biologin ändrats sedan dess?
+- Hur kommer det sig att i andra kulturer är det markant mer jämställt. 
+- - http://dl.acm.org/citation.cfm?doid=543812.543839
+- - http://www.techrepublic.com/blog/software-engineer/it-gender-gap-where-are-the-female-programmers/
+- Om en man genomgår hormonbehandling och blir kvinna, passar hon då sämre? http://www.newrepublic.com/article/119239/transgender-people-can-explain-why-women-dont-advance-work
+
+Om det är relevanta skillnader verkar det snarare vara till kvinnors fördel. 
+- http://venturebeat.com/2015/01/27/study-girls-outperform-boys-in-math-and-science-all-over-the-world/?hc_location=ufi
+
+**Sociala/kulturella skillnader**
+
+Sådana går att göra något åt.
+
+**Men en-ennan-bransch är inte heller jämställd**
+
+Kanske det, kanske inte. Det spelar ingen roll för detta handlar inte om den branschen utan om programmeringsbranschen.
+
+Vanliga exempel verkar vara make up-artister och byggjobbare. Dessutom är olika yrkesgruppers kön något som omdefinieras historiskt, där yrken som utvecklas till att ses som mer avancerade och tekniska konsekvent blir mer manliga och de som ses som mindre komplexa över tiden också blir mer kvinnliga. Exempel på detta är t.ex. sekreterare som gått från manligt till kvinnligt och programmerare där utvecklingen har blivit det motsatta.
 
 HBTQ, invandrare och andra minoriteter
 -----------------------------------------------
