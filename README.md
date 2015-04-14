@@ -8,7 +8,7 @@ Att det är få kvinnliga utvecklare har troligen inte undgått någon vid det h
 
 Ja, på grund av att dessa punkter:
 
-- Kvinnor i branschen blir generellt sämre behandlade. Se nästa sektion.
+- Kvinnor i branschen blir generellt sämre behandlade. Se [nästa sektion](womens_perspective.md)
 - Branschen skriker idag efter duktigt folk.
 - Duktiga kvinnor, och vissa män, orkar inte med klimatet och slutar.
 - Mindre risk för grupptänk med fler perspektiv.
@@ -24,17 +24,13 @@ HBTQ, invandrare och andra minoriteter
 
 En god poäng, men jag skulle vilja att detta repo fokuserade på just problemet med få kvinnor. Med det sagt kan troligen många av lösningsförslagen appliceras även för att öka andelen övriga minoriteter.
 
-**PERSONLIGT, PR PÅ DETTA EXTRA VÄLKOMNA**
-
-Jag tror dock att om vi kan bryta männens överväldigande majoritet på något sätt blir det lättare för att andra grupper att också bli accepterade.
-
 Att tänka på under debatter
 ---------------------------
 
-Debatter är bra, fler perspektiv är bra men ha följande i åtanke om du är man, vilket i dag majoriteten av er kommer vara:
+Debatter är bra, fler perspektiv är också bra men ha följande i åtanke om du är man, vilket i dag majoriteten av er kommer vara:
 
-- Avfärda inte vad kvinnor säger. Vissa kvinnor har aldrig upplevt problemet, andra har upplevt det många gånger.
-- De har tolkningsföreträde, du kan inte säga hur deras värld ser ut.
+- Avfärda inte vad kvinnor säger.
+- Kvinnor har tolkningsföreträde, du kan inte säga hur någon annans värld ser ut. Om du som kvinna inte har upplevt problemet säger det inget om hurvida andra kvinnor upplevt problemet.
 - Håll det sakligt.
 - Skippa teoretiserandet, vi måste inte spika exakt varför det är som det är.
 
