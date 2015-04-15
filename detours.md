@@ -10,7 +10,7 @@ Det är inget lätt problem att avgöra. Hjärnan är extremt anpassningsbar och
 - http://www.bbc.co.uk/news/science-environment-29405467?hc_location=ufi
 
 Om det finns relevanta skillnader:
-- 1960-1990 ökade andelen kvinnor men där vände det. Har biologin ändrats sedan dess?
+- 1960-1990 ökade andelen kvinnor men där vände det. Har biologin ändrats sedan dess? Lite historia: http://fof.se/tidning/2015/4/artikel/kvinnorna-bakom-datorernas-genombrott
 - Hur kommer det sig att i andra kulturer är det markant mer jämställt.
 - - http://dl.acm.org/citation.cfm?doid=543812.543839
 - - http://www.techrepublic.com/blog/software-engineer/it-gender-gap-where-are-the-female-programmers/
