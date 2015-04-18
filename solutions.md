@@ -1,4 +1,4 @@
-Metoder för att börja åtgärda problemet
+Konkreta lösningar ni kan börja med idag
 ---------------------------------------
 
 **Allmänt**
@@ -66,3 +66,16 @@ Kan uttrycka sig i stil med "Vi är idag 22% kvinnor i bolaget och siktar på at
 **Automatiserade kodtest**
 
 En variant som förutsätter att ett antal sökande finns, vilket idag inte alls gäller alla bolag. Ge alla samma test och sätt upp en maskin som mäter testet på diverse vis.
+
+Lösningar som ger resultat på sikt
+----------------------------------
+
+**Framhäv IT inom grundskolan**
+
+Om fler får upp ögonen för IT och inte bara de som sitter hemma och meckar kan vi få en mer diversifierad rekryteringskälla om några år.
+
+**Framhäv arrrangemang för teknikintresserade tjejer**
+
+- Teklafestivalen för tjejerj 11-18 år, http://www.teklafestival.se/
+
+Fler tips mottages gärna.
