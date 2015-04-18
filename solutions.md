@@ -1,5 +1,5 @@
-Konkreta lösningar ni kan börja med idag
----------------------------------------
+Lösningar som ger effekt från dag ett
+-------------------------------------
 
 **Allmänt**
 
@@ -67,8 +67,8 @@ Kan uttrycka sig i stil med "Vi är idag 22% kvinnor i bolaget och siktar på at
 
 En variant som förutsätter att ett antal sökande finns, vilket idag inte alls gäller alla bolag. Ge alla samma test och sätt upp en maskin som mäter testet på diverse vis.
 
-Lösningar som ger resultat på sikt
-----------------------------------
+Lösningar som ger störrre resultat men på längre sikt
+------------------------------------------------------
 
 **Framhäv IT inom grundskolan**
 
